@@ -6,8 +6,8 @@ Frontend Developer
 
 * 🌍  I'm based in Vienna
 * ✉️  You can contact me at [Zahra.Karimi.IT@gmail.com](mailto:Zahra.Karimi.IT@gmail.com)
-* 🚀  I'm currently working on [SSP]([http://lOidl.com](https://www.loidl-consulting.at/)/)
-* 🧠  I'm learning ReactJS , Angular
+* 🚀  I'm currently working at [Loidl Consulting](https://www.loidl-consulting.at)
+* 🧠  I'm learning ReactJS, Angular
 
 ### Skills
 
